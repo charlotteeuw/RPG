@@ -1,0 +1,11 @@
+Hi $name .
+@
+Oh my gosh! You're hurt ?!
+@
+Quick! Drink this medicine.
+You'll feel better!
+@
+You seem much better now!
+@
+I'll give you this potion that will
+allow you to run faster!

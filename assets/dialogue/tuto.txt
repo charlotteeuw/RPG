@@ -1,0 +1,18 @@
+Welcome traveler! I'm Clovy, a little cat
+that will accompagny you during your
+adventure. (PRESS SPACE TO SKIP)
+@
+First, I will show you the commands that
+you will need. You can try moving
+your character by pressing the movement
+keys.
+@
+Thinking you might be too slow?
+Try pressing shift to run faster.
+@
+If you've understood everything, you can
+now sit back and enjoy this cozy adventure
+with me!
+@
+Click again to play the game! See you
+soon $name.

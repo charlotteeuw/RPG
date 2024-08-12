@@ -1,0 +1,9 @@
+Hello $name . I heard that Clovy
+sent you here because you needed
+some seeds.
+@
+Here you go! You can plant them
+in the yard next to your house!
+@
+Come back to see me if you need
+more seeds.

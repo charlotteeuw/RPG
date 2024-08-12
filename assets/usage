@@ -1,0 +1,25 @@
+                       /! my_rpg usage !\
+
+Here you will find a short tutorial to enjoy the game
+
+________________________________________________________________
+
+        -> First you need to compile the code : run make
+
+        -> to display the help menu : run ./my_rpg -h
+
+        -> to start the game : run ./my_rpg
+
+________________________________________________________________
+
+You can custom the keys in the settings menu, except for the
+screenshot (f2).
+
+You can start a new game by pressing the 'NEW' button. You
+also can go back to your last save by entering the resume
+menu and select a save from the list.
+
+________________________________________________________________
+
+In case of error or if you have any suggestion please contact us
+at one of these addresses : Maël [mael.bertocchi@epitech.eu] ...

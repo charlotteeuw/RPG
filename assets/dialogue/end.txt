@@ -1,0 +1,11 @@
+Thank you so much $name  for saving me.
+@
+Let's get away from these zombies together!
+@
+You are the nicest person I've ever met
+@
+Thanks for playing $name .
+@
+I'll put you back in the title screen...
+@
+See you soon!
